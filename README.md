@@ -12,7 +12,7 @@ Fully interactive Tableau dashboard monitoring:
 - Forecast confidence intervals
 
 ### Screenshots
-![ Hospital Performance Executive Dashboard](https://github.com/esosaomwanghe/Customer-Credit-Risk-Profiling-/blob/main/Customer%20Risk%20Profiling.png)
+![ Hospital Performance Executive Dashboard](https://github.com/esosaomwanghe/Hospital-Performance-Executive-Dashboard/blob/main/US%20Hospital%20Quality%20Monitoring%20Dashboard.png)
 *Interactive Tableau dashboard – full view*
 
 
